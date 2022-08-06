@@ -13,7 +13,7 @@
 ### **Current**
 - Software-Engineer I @ <a href="https://seed.im/"><img src="https://seed.im/images/seedcode.svg" width="100" style="vertical-align:middle;"/></a>
 
-- Contributing In building, <a href="https://seed.im/"><img src="https://firefly.exchange/images/firefly-logo-main.svg" width="75" style="vertical-align:middle;"/></a>, a decentralized Digital Assets Exchange.
+- Contributing In building, <a href="https://firefly.exchange"><img src="https://firefly.exchange/images/firefly-logo-main.svg" width="75" style="vertical-align:middle;"/></a>, a decentralized Digital Assets Exchange.
 
 <br>
 
