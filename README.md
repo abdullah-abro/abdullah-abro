@@ -1,4 +1,4 @@
-# Hey 👋     ! Nice to have you here 👀
+# Hey 👋! Nice to have you here 👀
 
 ## *I am Abdullah Abro* 🧑‍🎓, *Software Engineer From Karachi, Pakistan* <img src="https://static3.depositphotos.com/1000209/137/v/450/depositphotos_1378146-stock-illustration-pakistan-flag.jpg" width="25"/> 
 
@@ -18,6 +18,7 @@
 <br>
 
 ### ***Here is what i work with or have Knowledge About :)***  
+
 <br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -62,12 +63,10 @@
 
 <br>
 
-
 ### ***But can co-operate on using :,)***
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
-
 
 ### ***still want to reach me out? leave me a message here***
 <a href="https://www.linkedin.com/in/abdullah-abro-7929231b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
